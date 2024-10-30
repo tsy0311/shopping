@@ -1,0 +1,62 @@
+{
+    "deals": [
+        {
+            "_id": "001",
+            "title": "iPhone 2",
+            "price": 1000,
+            "brand": "Apple",
+            "thumbnail": "https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/436982.jpg/w=1920,q=75,metadata=keep"
+        },
+        {
+            "_id": "002",
+            "title": "iPhone 3",
+            "price": 2000,
+            "brand": "Apple",
+            "thumbnail": "https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/436982.jpg/w=1920,q=75,metadata=keep"
+        },
+        {
+            "_id": "003",
+            "title": "iPhone 4",
+            "price": 3000,
+            "brand": "Apple",
+            "thumbnail": "https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/436982.jpg/w=1920,q=75,metadata=keep"
+        },
+        {
+            "_id": "004",
+            "title": "iPhone 5",
+            "price": 5000,
+            "brand": "4pple",
+            "thumbnail": "https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/436982.jpg/w=1920,q=75,metadata=keep"
+        }
+    ],
+    "allProducts": [
+        {
+            "_id": "001",
+            "title": "iPhone 2",
+            "price": 1000,
+            "brand": "Apple",
+            "thumbnail": "https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/436982.jpg/w=1920,q=75,metadata=keep"
+        },
+        {
+            "_id": "002",
+            "title": "iPhone 3",
+            "price": 2000,
+            "brand": "Apple",
+            "thumbnail": "https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/436982.jpg/w=1920,q=75,metadata=keep"
+        },
+        {
+            "_id": "003",
+            "title": "iPhone 4",
+            "price": 3000,
+            "brand": "Apple",
+            "thumbnail": "https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/436982.jpg/w=1920,q=75,metadata=keep"
+        },
+        {
+            "_id": "004",
+            "title": "iPhone 5",
+            "price": 5000,
+            "brand": "4pple",
+            "thumbnail": "https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/436982.jpg/w=1920,q=75,metadata=keep"
+        }
+    ]
+}
